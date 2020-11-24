@@ -39,7 +39,7 @@ file.close()
 #### PART 3
 #### open txt file with data, clean and format row to [category, year, team, region, state]
 ####
-
+filename = 'us_youth_national_champions_raw.txt'
 data = open(filename, 'r').read()
 lines = data.splitlines()
 
