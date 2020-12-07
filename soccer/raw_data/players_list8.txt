@@ -1,0 +1,368 @@
+Waylon FrancisColumbus Crew SC
+14
+DefenderAge:
+30
+HT:
+5' 9"
+WT:
+160
+
+View More
+Przemyslaw FrankowskiChicago Fire FC
+11
+MidfielderAge:
+25
+HT:
+5' 8"
+WT:
+155
+
+International
+View More
+Liam FraserToronto FC
+27
+Midfielder
+-
+Surrey, BCAge:
+22
+HT:
+6' 1"
+WT:
+179
+
+
+View More
+Tyler FreemanSporting Kansas City
+23
+Forward
+-
+Shawnee, KSAge:
+17
+HT:
+5' 10"
+WT:
+150
+
+
+View More
+Matt FreesePhiladelphia Union
+1
+Goalkeeper
+-
+Wayne, PennsylvaniaAge:
+22
+HT:
+6' 4"
+WT:
+195
+
+
+View More
+Stefan FreiSeattle Sounders FC
+24
+Goalkeeper
+-
+Berkeley, CAAge:
+34
+HT:
+6' 3"
+WT:
+195
+
+View More
+Alejandro FuenmayorHouston Dynamo FC
+2
+Defender
+-
+Valencia, VenezuelaAge:
+24
+HT:
+6' 0"
+
+View More
+Gilbert FuentesSan Jose Earthquakes
+35
+Midfielder
+-
+Tracy, CAAge:
+18
+HT:
+5' 6"
+WT:
+140
+
+
+View More
+Raymon GaddisPhiladelphia Union
+28
+Defender
+-
+Indianapolis, Ind.Age:
+30
+HT:
+5' 9"
+WT:
+151
+
+View More
+Tony GallacherToronto FC
+6
+Defender
+-
+Glasgow, ScotlandAge:
+21
+HT:
+5' 10"
+WT:
+156
+
+International
+
+
+View More
+Jon GallagherAtlanta United FC
+26
+Forward
+-
+Dundalk, IrelandAge:
+24
+HT:
+5' 9"
+WT:
+158
+
+View More
+Erickson GallardoToronto FC
+9
+MidfielderAge:
+24
+HT:
+5' 8"
+WT:
+150
+
+International
+View More
+Pedro GalleseOrlando City SC
+1
+Goalkeeper
+-
+Lima, PeruAge:
+30
+HT:
+6' 3"
+
+International
+View More
+Braian GalvanColorado Rapids
+52
+MidfielderAge:
+20
+HT:
+5' 5"
+WT:
+141
+
+International
+View More
+Christopher GarciaReal Salt Lake
+17
+Midfielder
+-
+El Paso, TXAge:
+17
+HT:
+5' 7"
+WT:
+142
+
+
+View More
+Boniek GarciaHouston Dynamo FC
+27
+MidfielderAge:
+36
+HT:
+5' 9"
+WT:
+150
+
+View More
+Chase GasperMinnesota United FC
+77
+Defender
+-
+Alexandria, VAAge:
+24
+HT:
+6' 0"
+WT:
+185
+
+View More
+Carles GilNew England Revolution
+22
+Midfielder
+-
+Valencia, SpainAge:
+28
+HT:
+5' 7"
+WT:
+145
+
+International
+Designated Player
+View More
+Gaston GimenezChicago Fire FC
+30
+Midfielder
+-
+Formosa, ArgentinaAge:
+29
+HT:
+6' 2"
+WT:
+194
+
+International
+Designated Player
+View More
+Francisco GinellaLos Angeles Football Club
+8
+Midfielder
+-
+Montevideo, UruguayAge:
+21
+HT:
+5' 10"
+WT:
+160
+
+International
+View More
+Tomas GiraldoMontreal Impact
+
+Midfielder
+-
+Montreal, QCAge:
+17
+HT:
+6' 0"
+WT:
+163
+
+
+View More
+Justen GladReal Salt Lake
+15
+Defender
+-
+Tucson, AZAge:
+23
+HT:
+6' 1"
+WT:
+160
+
+
+View More
+Sam GleadleMinnesota United FC
+
+Defender
+-
+Chichester, United KingdomAge:
+24
+HT:
+5' 10"
+WT:
+155
+
+View More
+Jakob GlesnesPhiladelphia Union
+5
+Defender
+-
+Sotra, NorwayAge:
+26
+HT:
+6' 2"
+WT:
+185
+
+International
+View More
+Erik GodoyVancouver Whitecaps FC
+22
+Defender
+-
+Buenos Aires, ArgentinaAge:
+27
+HT:
+6' 2"
+WT:
+175
+
+International
+View More
+Anibal GodoyNashville SC
+20
+Midfielder
+-
+Panama City, PanamaAge:
+30
+HT:
+6' 0"
+WT:
+165
+
+View More
+Yeimar Gomez AndradeSeattle Sounders FC
+28
+Defender
+-
+Tado, ColombiaAge:
+28
+HT:
+6' 2"
+WT:
+200
+
+International
+View More
+Yony GonzalezLA Galaxy
+
+MidfielderAge:
+26
+HT:
+6' 0"
+WT:
+165
+
+International
+View More
+Giancarlo GonzalezLA Galaxy
+21
+Defender
+-
+San Jose, Costa RicaAge:
+32
+HT:
+6' 1"
+WT:
+185
+
+International
+View More
+Omar GonzalezToronto FC
+44
+Defender
+-
+Dallas, TXAge:
+32
+HT:
+6' 5"
+WT:
+205
+
+View More
